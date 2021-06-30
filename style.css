@@ -37,7 +37,7 @@ letter-spacing: -2px;
 padding-left: 20px !important;
 }
 .products {
-background-color: #fa8128;
+background-color: #fa8128 !important;
 }
 .header p {
 font-size: 80px;
